@@ -6,5 +6,5 @@ percobaan untuk melakukan pull dan push di git dan github:
 5. melakukan git add
 6. melakukan git commit -m "belajar commit"
 7. git remote add origin master ...
-8. update filescript
-9. lakukan add, commot, git push
+8. update filescript,
+9. lakukan add, commot, dan git push
