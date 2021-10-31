@@ -1,2 +1,0 @@
-1. Ini adalah file baru ynag digunakan dalam praktikum git dan github
-2. Apa yang diperlukan dalam praktik ini adalah internet, laptop, dan keinginan untuk terus belajar hal yang baru dan bermanfaat baik
